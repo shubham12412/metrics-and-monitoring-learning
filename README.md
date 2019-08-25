@@ -16,4 +16,10 @@
 
 9) https://github.com/statsd/statsd
 
+10) https://github.com/b/statsd_spec
+
+11) https://code.flickr.net/2008/10/27/counting-timing/
+
+12) https://www.datadoghq.com/blog/statsd/
+
 
